@@ -52,6 +52,7 @@ MANUFACTURER_LINKS = [
   (0x0776, "http://lumenetix.com/"),
   (0x07C0, "https://www.codemercs.com/"),
   (0x0808, "http://zero88.com/"),
+  (0x088E, "https://www.stage1.com.tw/"),
   (0x089D, "http://www.gobo.ws/"),
   (0x08A4, "https://www.adamhall.com/"),
   (0x08C5, "https://ehrgeiz.com/"),
