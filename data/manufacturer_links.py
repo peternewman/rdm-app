@@ -60,6 +60,7 @@ MANUFACTURER_LINKS = [
   (0x097A, "http://teamboyce.com/"),
   (0x097F, "https://raumzeitlabor.de/"),
   (0x0987, "https://www.mathertel.de/"),
+  (0x1234, "http://tsp.esta.org/tsp/working_groups/cp.html"),
   (0x15D0, "https://www.musiclights.it/"),
   # (0x15D0, "http://prolights.it/"), # This is one of their sub-brands
   (0x16FA, "http://www.liteputer.com.tw/"),
