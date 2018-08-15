@@ -82,6 +82,7 @@ MANUFACTURER_LINKS = [
   (0x3638, "https://www.lumenpulse.com/"),
   (0x4144, "https://www.adbstagelight.com/"),
   (0x414C, "https://www.artisticlicence.com/"),
+  (0x4151, "http://aquariitech.com/"),
   (0x4179, "https://www.ayrton.eu/"),
   (0x434D, "http://www.coemar.com/"),
   (0x4350, "https://www.claypaky.it/"),
