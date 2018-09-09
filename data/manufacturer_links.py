@@ -93,6 +93,7 @@ MANUFACTURER_LINKS = [
   (0x4658, "http://www.magicfx.eu/"),
   (0x4744, "http://www.goddarddesign.com/"),
   (0x4845, "http://www.helluk.com/"),
+  (0x4947, "https://www.iguzzini.com/"),
   (0x4953, "https://www.istl.com/"),
   (0x4A54, "http://jthomaseng.com/"),
   (0x4A61, "http://www.jands.com.au/"),
