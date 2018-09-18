@@ -107,7 +107,7 @@ CONTROLLER_DATA = {
   ],
   0x454E: [
     {'name': 'DMX USB Pro',
-     'link': 'https://www.enttec.com/products/controls/dmx-usb/dmx-usb-pro/',
+     'link': 'https://www.enttec.com/products/controls/usb/2-universe-usb-computer-interface-dmx/',
      'image_url': 'http://www.enttec.com/img/dmxusbpro/flip.gif',
      'tags': ['tool', 'USB']},
     {'name': 'RDM USB Pro',
