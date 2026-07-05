@@ -142,7 +142,7 @@ class TestManufacturers(unittest.TestCase):
         if hasattr(e, 'errno'):
           self.fail("Link %s failed due to socket error %s" % (link, e.errno))
       else:
-        self.assertTrue(((response.code == 200) || (response.code == 202)),
+        self.assertTrue(((response.code == 200) or (response.code == 202)),
                          "Failed to fetch URL %s got status %d" %
                          (link, response.code))
 
