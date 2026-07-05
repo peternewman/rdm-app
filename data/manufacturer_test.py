@@ -134,7 +134,8 @@ class TestManufacturers(unittest.TestCase):
                     link == 'https://www.nxp.com/' or
                     link == 'https://www.martin.com/' or
                     link == 'https://www.productionwarehouse.co.za/' or
-                    link == 'https://portmanlights.com/'))):
+                    link == 'https://portmanlights.com/' or
+                    link == 'https://www.adamhall.com/'))):
             self.fail("Link %s failed due to %s, reason type: %s" % (link, e.reason, type(e)))
         elif hasattr(e, 'code'):
           self.fail("The server couldn't fulfill the request for %s. Error "
