@@ -1122,6 +1122,7 @@ MANUFACTURER_DATA = [
   (0x1221, "SAGITTER-SDJ-Proel"),
   (0x1222, "SM International"),
   (0x1234, "ESTA"),
+  (0x1240, "Canary Yellow Applications"),
   (0x1268, "Frontside Technology Services"),
   (0x12DA, "Newlab S.r.l."),
   (0x12E0, "Luxlight Skandinavien AB"),
