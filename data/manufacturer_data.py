@@ -341,6 +341,7 @@ MANUFACTURER_DATA = [
   (0x03E8, "Acson"),
   (0x03F0, "jpbaye.de"),
   (0x03FA, "ART-DMX"),
+  (0x03FD, "Guangzhou DWM Lighting Co.,Ltd"),
   (0x0402, "Exato"),
   (0x0404, "Luminxa"),
   (0x040E, "Optoma Corporation"),
@@ -630,6 +631,7 @@ MANUFACTURER_DATA = [
   (0x07CF, "MH-Sound"),
   (0x07D1, "Made By Mouse LTD"),
   (0x07D2, "Guangdong The One Studio Co., Limited"),
+  (0x07D4, "Sense Solutions"),
   (0x07D5, "PHIDA Stage Equipment Co., Ltd"),
   (0x07D6, "Lite Puter Enterprise Co., Ltd."),
   (0x07DA, "Flytech s.r.l."),
@@ -1781,5 +1783,6 @@ MANUFACTURER_DATA = [
   (0x7FFD, "RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"),
   (0x7FFE, "RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"),
   (0x7FFF, "RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"),
+  (0x890D, "Guangzhou Shengyuan Electronic Technology Co., Ltd"),
   (0xFFFF, "ESTA"),
 ]
