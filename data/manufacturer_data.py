@@ -1196,6 +1196,7 @@ MANUFACTURER_DATA = [
   (0x1A3D, "Red Lighting s.r.l."),
   (0x1A58, "Wuxi Seastar Lighting Co.,Ltd."),
   (0x1AFA, "TMB"),
+  (0x1AFD, "Shenzhen ZMO Information Technology Co., Ltd."),
   (0x1BB1, "PH Lightning AB"),
   (0x1BC0, "ALS Stanislaw Binkiewicz"),
   (0x1BC6, "Studio S Music City"),
