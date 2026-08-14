@@ -1188,6 +1188,7 @@ MANUFACTURER_DATA = [
   (0x19BA, "Guangzhou Xinzhijie Photoelectric Co., Ltd."),
   (0x19BB, "Panalux Ltd."),
   (0x19BC, "Newtone AS"),
+  (0x19D7, "TPK Optoelectronic Tech Co., Ltd."),
   (0x19F8, "CEZOS Spolka z ograniczona odpowiedzialnoscia, sp.k."),
   (0x1A00, "LIGEO GmbH"),
   (0x1A0D, "Cineo Lighting"),
