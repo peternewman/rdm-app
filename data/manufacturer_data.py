@@ -1742,6 +1742,7 @@ MANUFACTURER_DATA = [
   (0x7401, "Harvatek Corporation"),
   (0x7402, "Chris Kallas"),
   (0x7403, "Yenrich Technology Corporation"),
+  (0x7471, "JG Technical Services"),
   (0x7764, "WET"),
   (0x7765, "MKT engineering GmbH & Co. KG"),
   (0x7768, "MD teknoloji"),
