@@ -73,7 +73,7 @@ MANUFACTURER_LINKS = [
   # (0x08C5, "https://ehrgeiz.glp.de/"),  # Now part of GLP
   (0x0956, "https://www.expromo.eu/"),
   (0x0957, "https://www.whitelight.ltd.uk/"),
-  (0x0960, "https://fineline.solutions/"),
+  (0x0960, "https://fineline.uk.com/"),
   (0x097A, "http://teamboyce.com/"),
   (0x097F, "https://raumzeitlabor.de/"),
   (0x0984, "https://www.laserworld.com/"),
